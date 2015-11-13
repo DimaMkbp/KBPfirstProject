@@ -112,6 +112,7 @@ class Program
 		Console.WriteLine ("Enter row!");
 		int row2 = int.Parse (Console.ReadLine ());
 		Console.WriteLine ("Enter column!");
+3
 		int column2 = int.Parse (Console.ReadLine ());
 		Console.WriteLine ("Second:");
 		Matrix second = new Matrix (column2, row2);
@@ -129,36 +130,36 @@ class Program
 			{
 			case 1:
 				{
-				Console.WriteLine ();
-				Console.WriteLine ("Addition:");
-				Matrix Addition = first + second;
-				Addition.Print ();
-				break;
+					Console.WriteLine ();
+					Console.WriteLine ("Addition:");
+					Matrix Addition = first + second;
+					Addition.Print ();
+					break;
 				}
 			case 2:
 				{
-				Console.WriteLine ();
-				Console.WriteLine ("Subtraction:");
-				Matrix Subtraction = first - second;
-				Subtraction.Print ();
-				break;
+					Console.WriteLine ();
+					Console.WriteLine ("Subtraction:");
+					Matrix Subtraction = first - second;
+					Subtraction.Print ();
+					break;
 				}
 			case 3:
 				{
-				Console.WriteLine ();
-				Console.WriteLine ("Multiplication:");
-				Matrix Mult = first * second;
-				Mult.Print ();
-				break;
+					Console.WriteLine ();
+					Console.WriteLine ("Multiplication:");
+					Matrix Mult = first * second;
+					Mult.Print ();
+					break;
 				}	
 			case 4:
 				{
-				Matrix.brake=true;
-				break;
+					Matrix.brake=true;
+					break;
 				}
 			default:
-			Console.WriteLine ("Error!");
-			break;
+				Console.WriteLine ("Error!");
+				break;
 			}
 		}
 		while(!Matrix.brake);
