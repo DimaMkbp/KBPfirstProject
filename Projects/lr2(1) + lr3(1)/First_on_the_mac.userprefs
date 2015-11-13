@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="First_on_the_mac/First_on_the_mac.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="First_on_the_mac/Program.cs">
+    <Files>
+      <File FileName="First_on_the_mac/Program.cs" Line="1" Column="1" />
+      <File FileName="First_on_the_mac/EmptyClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

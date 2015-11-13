@@ -1,0 +1,5 @@
+/Users/gusejn/Projects/this/this/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gusejn/Projects/this/this/bin/Debug/this.exe.mdb
+/Users/gusejn/Projects/this/this/bin/Debug/this.exe
+/Users/gusejn/Projects/this/this/obj/x86/Debug/this.exe
+/Users/gusejn/Projects/this/this/obj/x86/Debug/this.exe.mdb
