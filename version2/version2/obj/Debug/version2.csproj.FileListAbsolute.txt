@@ -1,0 +1,9 @@
+D:\C# проекты\класс массив и перегрузка методов\vers 2\version2\version2\bin\Debug\version2.exe.config
+D:\C# проекты\класс массив и перегрузка методов\vers 2\version2\version2\bin\Debug\version2.exe
+D:\C# проекты\класс массив и перегрузка методов\vers 2\version2\version2\bin\Debug\version2.pdb
+D:\C# проекты\класс массив и перегрузка методов\vers 2\version2\version2\obj\Debug\version2.csprojResolveAssemblyReference.cache
+D:\C# проекты\класс массив и перегрузка методов\vers 2\version2\version2\obj\Debug\version2.exe
+D:\C# проекты\класс массив и перегрузка методов\vers 2\version2\version2\obj\Debug\version2.pdb
+D:\github\класс массив и перегрузка методов\vers 2\version2\version2\bin\Debug\version2.exe.config
+D:\github\класс массив и перегрузка методов\vers 2\version2\version2\obj\Debug\version2.exe
+D:\github\класс массив и перегрузка методов\vers 2\version2\version2\obj\Debug\version2.pdb
