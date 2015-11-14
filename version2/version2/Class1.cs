@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //привет 
-а с этим что делаеть?
 namespace version2
 {
     class sizeExeption : ApplicationException
