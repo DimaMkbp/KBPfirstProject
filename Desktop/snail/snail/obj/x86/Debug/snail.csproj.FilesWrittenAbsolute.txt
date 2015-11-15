@@ -1,0 +1,5 @@
+/Users/gusejn/Projects/snail/snail/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gusejn/Projects/snail/snail/bin/Debug/snail.exe.mdb
+/Users/gusejn/Projects/snail/snail/bin/Debug/snail.exe
+/Users/gusejn/Projects/snail/snail/obj/x86/Debug/snail.exe
+/Users/gusejn/Projects/snail/snail/obj/x86/Debug/snail.exe.mdb
