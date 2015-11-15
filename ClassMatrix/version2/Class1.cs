@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//пр 
+//пры
 namespace version2
 {
     class sizeExeption : ApplicationException
