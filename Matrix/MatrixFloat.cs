@@ -28,13 +28,13 @@ namespace Matrix
         public MatrixFloat(int n, int m)
         {
             mas = new double[n, m];
-            Random r = new Random();
+            Random rnd = new Random();
 
             for (int i = 0; i < mas.GetLength(0); i++)
             {
                 for (int j = 0; j < mas.GetLength(1); j++)
                 {
-                    mas[i, j] = r.Next(3);
+                    mas[i, j] = rnd.Next(3);
                 }
             }
         }
@@ -105,6 +105,6 @@ namespace Matrix
 
             return a;
         }
-        //
+        //проверка
     }
 }
