@@ -26,7 +26,7 @@ namespace Matrix
             catch (DefEx ex) { Console.WriteLine(ex); }
             
             Console.ReadLine();
-            //How you do
+            //How you 
         }
     }
 }
