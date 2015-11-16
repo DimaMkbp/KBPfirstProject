@@ -7,3 +7,6 @@ D:\C# проекты\класс массив и перегрузка метод�
 D:\github\класс массив и перегрузка методов\vers 2\version2\version2\bin\Debug\version2.exe.config
 D:\github\класс массив и перегрузка методов\vers 2\version2\version2\obj\Debug\version2.exe
 D:\github\класс массив и перегрузка методов\vers 2\version2\version2\obj\Debug\version2.pdb
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\ClassMatrix\version2\bin\Debug\version2.exe.config
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\ClassMatrix\version2\obj\Debug\version2.exe
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\ClassMatrix\version2\obj\Debug\version2.pdb

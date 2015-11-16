@@ -4,3 +4,6 @@ c:\users\matvey\documents\visual studio 2015\Projects\Matrix\Matrix\bin\Debug\Ma
 c:\users\matvey\documents\visual studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
 c:\users\matvey\documents\visual studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.exe
 c:\users\matvey\documents\visual studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\Matrix\obj\Debug\Matrix.exe
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\Matrix\obj\Debug\Matrix.pdb
