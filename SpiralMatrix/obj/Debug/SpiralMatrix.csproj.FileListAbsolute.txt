@@ -1,0 +1,12 @@
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Matrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Matrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Matrix\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Matrix\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Matrix\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Matrix\SpiralMatrix\obj\Debug\SpiralMatrix.pdb
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\SpiralMatrix\obj\Debug\SpiralMatrix.pdb
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Repos\KBPfirstProject\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
